@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3j0111_000.yaml, hash: 'sha256:cdd6c770d1d6f4c9f80294228cdc7edadba7fed8e7d2802e155fec9784b49fd7'}
   - {seq: 1, filename: KR3j0111_001.yaml, hash: 'sha256:1799199328dcfe98a9cb0ff985a48022cbb301dfa14268bb4ade44cb15f47d9c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0111_000.markers.yaml, hash: 'sha256:d1a778bbb34c43d07732b1812c4241e6769f291589fb4da349510b10165ab341'}
-  - {seq: 1, role: markers, filename: assets/KR3j0111_001.markers.yaml, hash: 'sha256:5b6c2edfe8bdfdaf5cf4735f0c1a73a927b6a93aa6c9ea1c528ae708bd576a83'}
+  - {seq: 0, role: markers, filename: assets/KR3j0111_000.markers.yaml, hash: 'sha256:78452ae8a21d2d661fec3d5eb4aa82124752d11ce0c86b1c7afe7abf34f2cb13'}
+  - {seq: 1, role: markers, filename: assets/KR3j0111_001.markers.yaml, hash: 'sha256:de140130b4bcb1d5642f9c05f5da333fe70516f46c9b31ddd48c90c4591b757a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 辯言
   type: section
   level: 1
-hash: sha256:c846dd71ba17f2af0a15f3e7cdf5095674f41883e52afc96856982a058294bb2
+hash: sha256:56f6247d7a8b2f93cab12e9341ea1ef23152e6f3665bdcb92fca29af95ebabce
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
